@@ -17,7 +17,7 @@
       <span>Cart ({{ totalQuantity }})</span>
     </div>
   </header>
-  <router-view :inventory="inventory" />
+  <router-view :inventory="inventory" :addToCart="addToCart" />
 
   <SidebarView
     v-if="showSidebar"
@@ -43,7 +43,7 @@ export default {
       cart: {}
     }
   },
-  computer: {
+  computed: {
     totalQuantity () {
       return Object.values(this.cart).reduce((acc, curr) => {
         return acc + curr
