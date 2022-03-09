@@ -1,24 +1,7 @@
 # product-and-cart
 
-## Project setup
-```
-npm install
-```
+## Notes
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+03-08-2022: Continuation of 'vue3-fcc-course-basic-product-cart-demo' (https://github.com/mrLennyboy/vue3-fcc-course-basic-product-cart-demo.git) from CDN to using VueJS CLI
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
