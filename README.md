@@ -1,4 +1,4 @@
-# Vue CLI Product Cart Demo
+# Vue3 CLI Product Cart Demo
 
 ## Notes
 
