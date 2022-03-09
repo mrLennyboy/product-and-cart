@@ -2,23 +2,6 @@
 
 ## Project setup
 ```
-npm install
+Continuation of 'vue3-fcc-course-basic-product-cart-demo' from CDN to using VueJS CLI
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
